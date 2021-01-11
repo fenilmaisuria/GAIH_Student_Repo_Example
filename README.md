@@ -3,11 +3,11 @@
 
 **Course Date: 04/01/2021**
 
-**Name: Fenil ** 
+**Name: Fenil** 
 
-**Surname: Maisuria ** 
+**Surname: Maisuria** 
 
-**Email: fenilmaisuria@outlook.com  ** 
+**Email: fenilmaisuria@outlook.com** 
  
 ## Project Name
 Machine Learning Algorithms
